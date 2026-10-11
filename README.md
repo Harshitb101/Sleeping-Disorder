@@ -152,5 +152,5 @@ Step count indicates physical activity habits, which affect overall sleep health
 This dashboard demonstrates how **data analytics can be applied to health** to uncover hidden patterns, enabling better decision-making for lifestyle changes and early prevention of sleep disorders.
 
 ---
-![Sleeping Disorder](image%282%29.png)
+![Sleeping Disorder Dashboard](image%282%29.png)
 
